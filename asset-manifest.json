@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-deployment/static/css/main.c0f26a41.css",
+    "main.js": "/admin-deployment/static/js/main.0cac8f50.js",
+    "index.html": "/admin-deployment/index.html",
+    "main.c0f26a41.css.map": "/admin-deployment/static/css/main.c0f26a41.css.map",
+    "main.0cac8f50.js.map": "/admin-deployment/static/js/main.0cac8f50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f26a41.css",
+    "static/js/main.0cac8f50.js"
+  ]
+}
